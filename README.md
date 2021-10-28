@@ -1,2 +1,2 @@
 # Burguerela
- Loja para encomendas de Hambúrguer.
+ Loja para encomenda de Hambúrguers.
